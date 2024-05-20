@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+.App {
+  /* text-align: center; */
+  /* background-color: rgb(70, 214, 209); */
+  overflow: auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+body {
+  font-family: 'Open Sans', sans-serif !important;
+  background-color: #d6f2fb5e;
+}
